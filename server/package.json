@@ -1,0 +1,25 @@
+{
+  "name": "auction-server",
+  "version": "1.0.0",
+  "description": "Auction-based e-commerce appliction",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "run dev": "node server"
+  },
+  "author": "Group 2 -JERIN",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "date-fns": "^3.0.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.2"
+  }
+}

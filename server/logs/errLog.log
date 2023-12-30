@@ -1,0 +1,4 @@
+2023-12-27	 12:30:50	32a5dac8-2665-42fc-8159-63827b64b1db	TypeError: allowedOrigins.indexOf is not a function	GET	/	undefined	
+2023-12-27	 19:43:37	2d060b8c-0031-4302-b415-7afe1db4b2e8	MongoServerError ::> bad auth : authentication failed	
+2023-12-27	 19:44:28	0e4b32c3-8e38-4b73-aa46-0722a0eee579	MongoServerError ::> bad auth : authentication failed	
+2023-12-27	 19:44:32	1545d169-fc44-4563-8bed-e1bb9bc8734e	MongoServerError ::> bad auth : authentication failed	
