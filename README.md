@@ -3,6 +3,8 @@
 ## Introduction
 BidMart is an open-source MERN (MongoDB, Express.js, React, Node.js) application designed to create an auction-based e-commerce platform. The primary goal of BidMart is to facilitate buying products through a bidding process, providing users with an engaging and dynamic shopping experience.
 
+## - Note: This project is currently under active development. Contributions and feedback are highly encouraged.
+
 ## Features
 
 - **Auction System**: Users can bid on products, and the highest bidder at the end of the auction wins the product.
@@ -66,9 +68,8 @@ We welcome contributions to BidMart! To contribute, follow these steps:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Thank you to the MERN stack community for providing the foundation for this project.
-- Special thanks to [contributors](CONTRIBUTORS.md) who have actively contributed to the development of BidMart.
+## Issues and Feedback
 
-Feel free to explore, use, and contribute to BidMart! Happy Bidding! 🛍️✨
+If you encounter any issues or have feedback, please [open an issue](https://github.com/aeking51/bidmart/issues). Your input is valuable!
+
